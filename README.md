@@ -1,2 +1,2 @@
 # PygLatin
-PygLatin project to test GitHub Skills
+This is a simple PygLatin program to test GitHub integration for the use of future projects.
