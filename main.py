@@ -1,7 +1,7 @@
 import translator
 import PySimpleGUI as gui
 
-l = [[gui.Text("Hello from PySimpleGUI")], 
+l = [[gui.Text("Pyg Latin Game")], 
      [gui.Input()],
      [gui.Text(size = (40, 1), key = '-OUTPUT-')],
      [gui.Button("OK")]]
